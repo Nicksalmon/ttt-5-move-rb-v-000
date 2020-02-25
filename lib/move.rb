@@ -12,6 +12,7 @@ end
 
 
 def move(board, position, char="5")
+  puts "0"
 
 end
 
