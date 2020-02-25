@@ -13,4 +13,4 @@ move =
 
 
 
-display_board
+display_board(board)
