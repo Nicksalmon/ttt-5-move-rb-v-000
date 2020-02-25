@@ -8,7 +8,7 @@ input = gets.strip
 
 index = input_to_index(input)
 
-move(board, position, char="X")
+move(board, index, char="X")
 
 
 
