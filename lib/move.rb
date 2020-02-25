@@ -12,6 +12,7 @@ end
 
 
 def move(board, position, char)
+puts "#{char}"
 end
 
 
