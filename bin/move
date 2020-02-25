@@ -7,4 +7,8 @@ puts "Welcome to Tic Tac Toe!"
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
+def update_array_at_with(array, index, value)
+  array[index] = value
+end
+
 #puts "What is your first move?"
