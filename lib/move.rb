@@ -12,7 +12,9 @@ end
 
 
 def move(board, position, char="X")
-  puts "0,0,X"
+  board[position]= char
+
+
 
 end
 
