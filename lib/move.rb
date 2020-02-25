@@ -11,8 +11,8 @@ def input_to_index(input)
 end
 
 
-def move(board, position, char)
-puts "#{char}"
+def move(board, position, char="x")
+
 end
 
 
